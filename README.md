@@ -2,8 +2,6 @@
 
 A clean, minimalist Todo List application built with React. This project demonstrates React fundamentals including state management, component composition, and event handling.
 
-![Todo List App Screenshot](https://raw.githubusercontent.com/mxhmoodem/react-to-do-list/main/screenshot.png)
-
 ## 🚀 Features
 
 - Add new todo items
