@@ -66,3 +66,12 @@ Contributions are welcome! If you'd like to contribute:
 4. Commit your changes (`git commit -m 'Add some amazing feature'`)
 5. Push to the branch (`git push origin feature/amazing-feature`)
 6. Open a Pull Request
+
+## 🧪 Running Tests
+
+After installing dependencies, you can run the unit tests with:
+
+```bash
+npm test
+```
+
