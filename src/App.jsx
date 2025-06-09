@@ -27,7 +27,6 @@ export default function App() {
     setTodos(currentTodos => {
       return currentTodos.map(todo => {
         if (todo.id === id) {
-          todo.completed = completed
           return { ...todo, completed }
         }
         return todo
